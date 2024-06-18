@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\DELL\source\repos\project\project\bin\Debug\project.exe
+C:\Users\DELL\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.CU.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.frmHome.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.Login.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.MU.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.exe
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.Locations.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.Frame.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\bin\Debug\project.exe.config
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\bin\Debug\project.exe
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\bin\Debug\project.pdb
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.CU.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.Frame.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.frmHome.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.Locations.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.Login.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.MU.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.exe
+C:\Users\Budvin\Desktop\New folder (5)\New folder (2)\project\project\obj\Debug\project.pdb
